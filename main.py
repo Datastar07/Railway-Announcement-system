@@ -1,5 +1,10 @@
 #Railway Anoucement System
 
+# pip install pyaudio
+# pip install pydub
+# pip install pandas
+# pip install gTTS
+
 from fileinput import filename
 import pandas as pd
 import os
