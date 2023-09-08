@@ -14,10 +14,10 @@
 
 ### Installation ⚙️:
 **Dependancies**
-- 1. Python >= 3.6
-- 2. pyaudio == 0.2.13
-- 3. pydub == 0.25.1
-- 4. gTTS == 2.3.2
+- Python >= 3.6
+- pyaudio == 0.2.13
+- pydub == 0.25.1
+- gTTS == 2.3.2
 - ⚠️ : If in above any dependacies is not install in your machine so try to directly download the .whl file of dependancies and then try it.
 
 ### Installing Dependancies!
