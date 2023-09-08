@@ -14,18 +14,18 @@
 
 ### Installation ⚙️:
 **Dependancies**
-1.Python >= 3.6
-2.pyaudio == 0.2.13
-3. pydub == 0.25.1
-4. gTTS == 2.3.2
-⚠️ : If in above any dependacies is not install in your machine so try to directly download the .whl file of dependancies and then try it.
+- 1. Python >= 3.6
+- 2. pyaudio == 0.2.13
+- 3. pydub == 0.25.1
+- 4. gTTS == 2.3.2
+- ⚠️ : If in above any dependacies is not install in your machine so try to directly download the .whl file of dependancies and then try it.
 
 ### Installing Dependancies!
 Installing the pyaudio,pydub,gTTS
 ```javascript
-import copyCodeBlock from '@pickra/copy-code-block';
-// OR
-const copyCodeBlock = require('@pickra/copy-code-block');
+pip install pyaudio==0.2.13
+pip install pydub==0.25.1
+pip install gTTS==2.3.2
 ```
 
 ### ⚠️ Note :
