@@ -21,12 +21,15 @@
 - ⚠️ : If in above any dependacies is not install in your machine so try to directly download the .whl file of dependancies and then try it.
 
 ### Installing Dependancies!
-Installing the pyaudio,pydub,gTTS
+1. Installing the pyaudio,pydub,gTTS
 ```javascript
 pip install pyaudio==0.2.13
 pip install pydub==0.25.1
 pip install gTTS==2.3.2
 ```
-
+2. Run Main Script.
+```javascript
+python <path/to>main.py
+```
 ### ⚠️ Note :
 In Which take care of our .mp3 file is may not be corrupted.Because if MP3 file is corrupted so our main.py file through an error and code not work properly so take care about that things.
