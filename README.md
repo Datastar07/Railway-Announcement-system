@@ -11,3 +11,22 @@
 
 [identifier]:https://github.com/Datastar07/Railway-Announcement-system/blob/main/annoucment.xlsx
 [idetifier2]:https://github.com/Datastar07/Railway-Announcement-system/blob/main/main.py
+
+### Installation ⚙️:
+**Dependancies**
+1.Python >= 3.6
+2.pyaudio == 0.2.13
+3. pydub == 0.25.1
+4. gTTS == 2.3.2
+⚠️ : If in above any dependacies is not install in your machine so try to directly download the .whl file of dependancies and then try it.
+
+### Installing Dependancies!
+Installing the pyaudio,pydub,gTTS
+```javascript
+import copyCodeBlock from '@pickra/copy-code-block';
+// OR
+const copyCodeBlock = require('@pickra/copy-code-block');
+```
+
+### ⚠️ Note :
+In Which take care of our .mp3 file is may not be corrupted.Because if MP3 file is corrupted so our main.py file through an error and code not work properly so take care about that things.
